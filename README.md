@@ -7,7 +7,7 @@ pip install ultralytics
 
 also supervision of Roboflow must be installed
 
-pip install ultralytics
+pip install supervision
 
 also must be installed the usual modules in computer vision: numpy, cv2
 
